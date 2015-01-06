@@ -1,0 +1,5 @@
+PHZ-FORTRAN
+
+The following is some code leftover when I was doing some Physics classes. All the code is written in FORTRAN 90.
+
+They include simulations, random walks, euler-cromer, and fft stuff.
